@@ -1,0 +1,15 @@
+5+5;
+si($suma == 505) {
+    salida ($suma );
+}
+sino {
+    salida ($suma -1);
+}
+#dfsdfsdf
+entero variable = 5.5 ;
+entero $expresion = (5 + 5 );
+entero $division != 10 ;
+@identificador = 2.2;
+cadena = "hsdhaih/da"i+hda-jjk127*e8@3dkjwq>(!)<SS[]" ;
+cadena $cad = "HolaMundo";
+cadena adadss ;
